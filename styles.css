@@ -394,3 +394,54 @@ footer p {
 footer a:hover {
   color: #fff;
 }
+
+@media screen and (max-width: 1280px) {
+
+  .hero .left-section .top h2 {
+    font-size: 25px;
+  }
+
+  .hero .left-section .top p {
+    font-size: 14px;
+  }
+
+  .hero .left-section .top .buttons button,
+  .projects .inner > button,
+  .contact .items .item button {
+    font-size: 14px;
+    padding: 8px 14px;
+  }
+
+  .hero .left-section .top .buttons button i {
+    font-size: 18px;
+  }
+
+  .about .items .item .inner {
+    min-height: 340px;
+  }
+
+  .about .items .item .inner a,
+  .projects .inner > p.info,
+  .contact .items .item p {
+    font-size: 15px;
+  }
+
+  .about .items .item .inner p {
+    font-size: 13px;
+  }
+
+  .projects .inner .items {
+    flex-wrap: wrap;
+  }
+
+  .projects .inner .items .item {
+    width: 46%;
+    height: 220px;
+  }
+
+  .contact .items .item a {
+    font-size: 18px;
+  }
+
+}
+
