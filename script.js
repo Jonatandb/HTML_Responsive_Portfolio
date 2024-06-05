@@ -1,1 +1,1 @@
-console.log("WIP: Responsive Portfolio - Jonatandb");
+console.log("Responsive Portfolio - Jonatandb");
